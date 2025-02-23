@@ -16,13 +16,13 @@ The updated grid is printed to the console.
 
 ## Example Output
 ```
- S...|....
-   ||.....
-     |....
-   |.|..G 
- |   |....
-    ||||  
-||   
+ S   |    
+ . ||     
+ .   |    
+ ..| |  G 
+ |.. |  . 
+   .||||.
+|| ......
 ```
 ## How to Run
 Compile with `g++ -o path-planning path-planning.cpp`
